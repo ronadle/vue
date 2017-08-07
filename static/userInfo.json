@@ -1,0 +1,209 @@
+{
+  "userInfo":{
+  "phone":15896362365,
+  "password":123,
+  "name":"小明",
+  "gender":"男",
+  "city":"北京",
+  "birth":"1994/04/01",
+  "icon":"http://123.56.16.57/shiliao/images/myicon_03.png",
+  "isTest":{}
+},
+"friends":[
+  { 
+    "alias":"爸爸",
+    "birth":"1968/05/04",
+    "icon":"http://123.56.16.57/shiliao/images/fmfr_03.png",
+    "gender":"男",
+    "city":"美国",
+    "isTest":{
+      "health":"平和质",
+      "options":["减重","痛风","血糖升高","脂肪肝","慢性肠胃炎","慢性支气管炎","血脂升高","血压升高"]
+    }
+  },
+  {
+    "alias":"妈妈",
+    "birth":"1970/08/10",
+    "icon":"http://123.56.16.57/shiliao/images/fmfr_07.png",
+    "gender":"女",
+    "city":"上海",
+    "isTest":{}
+  }
+],
+"userCollects":{
+  "topics":[
+    {
+      "id":4,
+      "title":"经期嗜睡怎么办 中医帮你来调理",
+      "imgUrl":"http://123.56.16.57/shiliao/images/mycoll_03.png",
+      "cont":"中医学认为，嗜睡多由脾虚湿困、气血不足或肾精亏损所致......",
+      "readNum":"202025"
+    },
+    {
+      "id":5,
+      "title":"如何彻底祛痘 荐从食材入手",
+      "imgUrl":"http://123.56.16.57/shiliao/images/mycoll_07.png",
+      "cont":"冬天的脚步已经踏近，可前胸后背上的次粉刺还是好不了。怎么才能让这些痘痘赶紧消退呢？",
+      "readNum":"322025"
+    },
+    {
+      "id":6,
+      "title":"红豆神奇功效 养心消水肿",
+      "imgUrl":"http://123.56.16.57/shiliao/images/mycoll_09.png",
+      "cont":"红豆不但养心消水肿，补血功效也是首屈的 一指的!今天，我们就跟大家聊……",
+      "readNum":"452025"
+    },
+    {
+      "id":7,
+      "title":"专家揭秘 木瓜能丰胸吗",
+      "imgUrl":"http://123.56.16.57/shiliao/images/mycoll_11.png",
+      "cont":"木瓜能丰胸的说法近年在民间广泛流传对的 并得到女同胞追捧。……",
+      "readNum":"452025"
+    }
+  ],
+  "products":[]
+},
+"receiveMsg":[
+  {
+    "nickName":"放肆演绎青春",
+    "icon":"http://123.56.16.57/shiliao/images/getmessage_03.png",
+    "msg":["图片"],
+    "date":"2016年11月22日"
+  },
+  {
+    "nickName":"落尽繁花丶终是梦",
+    "icon":"http://123.56.16.57/shiliao/images/getmessage_07.png",
+    "msg":["食疗养生小百科"],
+    "date":"2016年11月12日"
+  },
+  {
+    "nickName":"素而安然",
+    "icon":"http://123.56.16.57/shiliao/images/getmessage_11.png",
+    "msg":["日常生活健康小常识"],
+    "date":"2016年11月01日"
+  },
+  {
+    "nickName":"幸福是给懂珍惜的人",
+    "icon":"http://123.56.16.57/shiliao/images/getmessage_13.png",
+    "msg":["图片"],
+    "date":"2016年11月18日"
+  },
+  { 
+    "nickName":"浮生若梦",
+    "icon":"http://123.56.16.57/shiliao/images/getmessage_16.png",
+    "msg":["排毒养颜"],
+    "date":"2016年10月12日"
+  }
+],
+"userOrder": [
+  {
+    "id":16,
+    "state":3,
+    "orderNum":830179047777,
+    "size":"大盒",
+    "type":"盒装",
+    "orderTime":"2017-05-28",
+    "imgUrl":"http://123.56.16.57/shiliao/images/myorder_07.png",
+    "name":"五谷养生粥",
+    "finalPrice":"￥26.00",
+    "number":"1"
+  },
+  {
+    "id":17,
+    "state":3,
+    "orderNum":830179048888,
+    "size":"大盒",
+    "type":"盒装",
+    "orderTime":"2017-05-08",
+    "imgUrl":"http://123.56.16.57/shiliao/images/myorder_14.png",
+    "name":"药膳汤",
+    "finalPrice":"￥54.00",
+    "number":"1"
+  },
+  {
+    "id":18,
+    "state":3,
+    "orderNum":830179049999,
+    "size":"大盒",
+    "type":"盒装",
+    "orderTime":"2017-06-08",
+    "imgUrl":"http://123.56.16.57/shiliao/images/myorder_17.png",
+    "name":"药膳鸡汤",
+    "finalPrice":"￥48.00",
+    "number":"1"
+  },
+  {
+    "id":19,
+    "state":2,
+    "orderNum":830179046666,
+    "size":"大盒",
+    "type":"盒装",
+    "orderTime":"2017-06-01",
+    "imgUrl":"http://123.56.16.57/shiliao/images/order_info_07.png",
+    "name":"精品红豆薏仁粉",
+    "finalPrice":"￥98",
+    "number":"1"
+  }
+],
+"productList":[
+  {
+    "id":16,
+    "feat":"增进食欲，促进消化",
+    "originalPrice":"￥30.00",
+    "imgUrl":"http://123.56.16.57/shiliao/images/myorder_07.png",
+    "name":"五谷养生粥",
+    "finalPrice":"￥26.00",
+    "number":"1"
+  },
+  {
+    "id":17,
+    "feat":"治疗疾病，养生保健",
+    "originalPrice":"￥60.00",
+    "imgUrl":"http://123.56.16.57/shiliao/images/myorder_14.png",
+    "name":"药膳汤",
+    "finalPrice":"￥54.00",
+    "number":"1"
+  },
+  {
+    "id":18,
+    "feat":"养心安神，抗疲劳，养颜美容",
+    "originalPrice":"￥52.00",
+    "imgUrl":"http://123.56.16.57/shiliao/images/myorder_17.png",
+    "name":"药膳鸡汤",
+    "finalPrice":"￥48.00",
+    "number":"1"
+  },
+  {
+    "id":19,
+    "feat":"",
+    "originalPrice":"￥200",
+    "imgUrl":"http://123.56.16.57/shiliao/images/order_info_07.png",
+    "name":"精品红豆薏仁粉",
+    "finalPrice":"￥98",
+    "number":"1"
+  }
+  
+],
+"getAddress":[
+    {
+      "addName":"李鑫",
+      "addPhone":"15309878976",
+      "detailCon":"北京市海淀区西三旗桥东金燕龙大厦101北京市海淀区西三旗桥东金燕龙大厦101"
+    },
+    {
+      "addName":"张红",
+      "addPhone":"13947685567",
+      "detailCon":"天津市南开区学府街21号金龙大厦205"
+    },
+    {
+      "addName":"李鑫",
+      "addPhone":"15309878976",
+      "detailCon":"北京市西城区华利苑小区B座1502室"
+    },
+    {
+      "addName":"李大云",
+      "addPhone":"15894534432",
+      "detailCon":"天津市南开区学府街21号金龙大厦205"
+    }
+  ]
+}

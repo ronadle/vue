@@ -1,0 +1,36 @@
+//私人订制选项
+const checkList = ['嗓子痛','手脚冷冰发麻','吃早饭','按时吃药']
+//症状调理推荐
+const sysptomRecommend =  [
+  {
+    id:10,
+    img:'http://123.56.16.57/shiliao/images/tu1_01.png',
+    name:'五珍粥',
+    tipsOne:'健脾祛湿',
+    tipsTwo:'补肾益气',
+    price:'￥36.50',
+    health:'痰湿体质'
+  },
+  {
+    id:11,
+    img:'http://123.56.16.57/shiliao/images/tu2.png',
+    name:'温县铁棍山药',
+    tipsOne:'补脾养胃',
+    tipsTwo:'生津益肺',
+    price:'￥150.00',
+    health:'痰湿体质'
+  },
+  {
+    id:12,
+    img:'http://123.56.16.57/shiliao/images/tu3.png',
+    name:'苓陈益中丸',
+    tipsOne:'厨师健脾',
+    tipsTwo:'益气和中',
+    price:'￥98.50',
+    health:'痰湿体质'
+  }
+]
+module.exports={
+  checkList:checkList,
+  sysptomRecommend:sysptomRecommend,
+}
